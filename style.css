@@ -1,9 +1,174 @@
-.body{
-    background-color: blueviolet;
+body{
+    background-color: rgb(121, 24, 212);
 }
 
 .card-text{
-    font-family: "true-gore", sans-serif;
-    font-weight: 400;
-    font-style: normal;
+    text-shadow: 2px 2px 0 #00f7ff,
+    -1px 1px 0 #00f7ff,
+    1px -1px 0 #00f7ff,
+    -1px -1px 0 #00f7ff,
+    0px 1px 0 #00f7ff,
+    0px -1px 0 #00f7ff,
+    -1px 0px 0 #00f7ff,
+    1px 0px 0 #00f7ff,
+    2px 2px 0 #00f7ff,
+    -2px 2px 0 #00f7ff,
+    2px -2px 0 #00f7ff,
+    -2px -2px 0 #00f7ff,
+    0px 2px 0 #00f7ff,
+    0px -2px 0 #00f7ff,
+    -2px 0px 0 #00f7ff,
+    2px 0px 0 #00f7ff,
+    1px 2px 0 #00f7ff,
+    -1px 2px 0 #00f7ff,
+    1px -2px 0 #00f7ff,
+    -1px -2px 0 #00f7ff,
+    2px 1px 0 #00f7ff,
+    -2px 1px 0 #00f7ff,
+    2px -1px 0 #00f7ff,
+    -2px -1px 0 #00f7ff;
+    color: #9900ff;
 }
+
+.card-title{
+    text-shadow: 2px 2px 0 #00f7ff,
+    -1px 1px 0 #00f7ff,
+    1px -1px 0 #00f7ff,
+    -1px -1px 0 #00f7ff,
+    0px 1px 0 #00f7ff,
+    0px -1px 0 #00f7ff,
+    -1px 0px 0 #00f7ff,
+    1px 0px 0 #00f7ff,
+    2px 2px 0 #00f7ff,
+    -2px 2px 0 #00f7ff,
+    2px -2px 0 #00f7ff,
+    -2px -2px 0 #00f7ff,
+    0px 2px 0 #00f7ff,
+    0px -2px 0 #00f7ff,
+    -2px 0px 0 #00f7ff,
+    2px 0px 0 #00f7ff,
+    1px 2px 0 #00f7ff,
+    -1px 2px 0 #00f7ff,
+    1px -2px 0 #00f7ff,
+    -1px -2px 0 #00f7ff,
+    2px 1px 0 #00f7ff,
+    -2px 1px 0 #00f7ff,
+    2px -1px 0 #00f7ff,
+    -2px -1px 0 #00f7ff;
+    color: #9900ff;
+}
+
+h1
+{
+    text-shadow: 2px 2px 0 #00f7ff,
+    -1px 1px 0 #00f7ff,
+    1px -1px 0 #00f7ff,
+    -1px -1px 0 #00f7ff,
+    0px 1px 0 #00f7ff,
+    0px -1px 0 #00f7ff,
+    -1px 0px 0 #00f7ff,
+    1px 0px 0 #00f7ff,
+    2px 2px 0 #00f7ff,
+    -2px 2px 0 #00f7ff,
+    2px -2px 0 #00f7ff,
+    -2px -2px 0 #00f7ff,
+    0px 2px 0 #00f7ff,
+    0px -2px 0 #00f7ff,
+    -2px 0px 0 #00f7ff,
+    2px 0px 0 #00f7ff,
+    1px 2px 0 #00f7ff,
+    -1px 2px 0 #00f7ff,
+    1px -2px 0 #00f7ff,
+    -1px -2px 0 #00f7ff,
+    2px 1px 0 #00f7ff,
+    -2px 1px 0 #00f7ff,
+    2px -1px 0 #00f7ff,
+    -2px -1px 0 #00f7ff;
+    color: #9900ff;
+}
+
+p
+{
+    text-shadow: 2px 2px 0 #00f7ff,
+    -1px 1px 0 #00f7ff,
+    1px -1px 0 #00f7ff,
+    -1px -1px 0 #00f7ff,
+    0px 1px 0 #00f7ff,
+    0px -1px 0 #00f7ff,
+    -1px 0px 0 #00f7ff,
+    1px 0px 0 #00f7ff,
+    2px 2px 0 #00f7ff,
+    -2px 2px 0 #00f7ff,
+    2px -2px 0 #00f7ff,
+    -2px -2px 0 #00f7ff,
+    0px 2px 0 #00f7ff,
+    0px -2px 0 #00f7ff,
+    -2px 0px 0 #00f7ff,
+    2px 0px 0 #00f7ff,
+    1px 2px 0 #00f7ff,
+    -1px 2px 0 #00f7ff,
+    1px -2px 0 #00f7ff,
+    -1px -2px 0 #00f7ff,
+    2px 1px 0 #00f7ff,
+    -2px 1px 0 #00f7ff,
+    2px -1px 0 #00f7ff,
+    -2px -1px 0 #00f7ff;
+    color: #9900ff; 
+}
+
+h2{
+    text-align: center;
+    text-shadow: 2px 2px 0 #00f7ff,
+    -1px 1px 0 #00f7ff,
+    1px -1px 0 #00f7ff,
+    -1px -1px 0 #00f7ff,
+    0px 1px 0 #00f7ff,
+    0px -1px 0 #00f7ff,
+    -1px 0px 0 #00f7ff,
+    1px 0px 0 #00f7ff,
+    2px 2px 0 #00f7ff,
+    -2px 2px 0 #00f7ff,
+    2px -2px 0 #00f7ff,
+    -2px -2px 0 #00f7ff,
+    0px 2px 0 #00f7ff,
+    0px -2px 0 #00f7ff,
+    -2px 0px 0 #00f7ff,
+    2px 0px 0 #00f7ff,
+    1px 2px 0 #00f7ff,
+    -1px 2px 0 #00f7ff,
+    1px -2px 0 #00f7ff,
+    -1px -2px 0 #00f7ff,
+    2px 1px 0 #00f7ff,
+    -2px 1px 0 #00f7ff,
+    2px -1px 0 #00f7ff,
+    -2px -1px 0 #00f7ff;
+    color: #9900ff;
+}
+
+.btn {
+    background: #18f0ff;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    text-shadow: 1px 1px 3px #ffffff;
+    font-family: Courier New;
+    color: #d900d9;
+    font-size: 21px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
